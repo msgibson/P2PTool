@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Oct 10 15:53:31 BST 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=P2PTool_server.jar
+manifest.mergeall=true
+manifest.mainclass=uk.ac.abdn.csd.p2p.server.ServerGUI
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|P2PTool>~uk/~ac/~abdn/~csd/~p2p/~servent/;<jar|jess.jar>;<jar|jess.jar.expired>
+includes=
